@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-item {
+    list-style-type: none;
+    margin-right: 8px;
+    margin-left: 0px;
+    margin-bottom: 6px;
+    margin-top: 8px;
+  }
+  .button-element {
+    background-color: #585076;
+    color: #d4d2db;
+    height: 40px;
+    width: 200px;
+    outline: none;
+    border: 1px solid #c4c4c4;
+    text-align: center;
+    pointer-events: cursor;
+  }
+  
